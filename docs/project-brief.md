@@ -1,0 +1,1 @@
+Mahasiswa sering menemukan fasilitas kampus yang rusak, tetapi proses pelaporannya belum terstruktur. Kategori laporan juga sering tidak seragam sehingga menyulitkan petugas dalam mengidentifikasi dan menangani kerusakan dengan cepat.
